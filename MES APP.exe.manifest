@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="MES APP" version="1.0.3.77" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="MES APP" version="1.2.3.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="MES APP.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MES APP.exe" size="1711616">
-      <assemblyIdentity name="MES APP" version="1.0.3.77" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MES APP.exe" size="1715200">
+      <assemblyIdentity name="MES APP" version="1.2.3.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>oPVu60YQdi/E0xawZOuKDI3FdVpP9vcg//u/akkNSHE=</dsig:DigestValue>
+        <dsig:DigestValue>9VRHsbZlxaD4sbaoIK3+r+602tE9FcpD2/X41DZkRqs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
